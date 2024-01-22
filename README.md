@@ -4,9 +4,9 @@
 # Enable Vulkan
 Enables Vulkan support for Android 10 and above. Dynamic installation and information based on Android version.
 
-## Vulkan Check (Adreno Gpu)
+## Vulkan Check
 
-#### 1- To see the render changelog you can use
+#### 1- To see the render changelog you can use (Adreno Gpu)
 
 ```
 logcat | grep Adreno
