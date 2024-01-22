@@ -1,5 +1,5 @@
 > [!WARNING]
-> Vip Driver users do not need to use this module.
+> Vip Driver users do not need to use this module. Boot based vulkan is enabled and supported.
 
 > [!TIP]
 > Recommended if you have a Snapdragon 888 or better processor.
