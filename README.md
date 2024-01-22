@@ -18,7 +18,7 @@ Check which one you use when running an app
 
 `• AdrenoVK (Vulkan)`
 
-### 2- To check which UI render pipeline is currently being used, use this command in termux
+#### 2- To check which UI render pipeline is currently being used, use this command in termux
 
 ```
 su -c dumpsys gfxinfo com.android.systemui | grep Pipeline | awk -F '=' '{print $2}'
