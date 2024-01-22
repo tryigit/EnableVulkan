@@ -7,6 +7,14 @@
 # Enable Vulkan
 Enables Vulkan support for Android 10 and above. Dynamic installation and information based on Android version.
 
+## Benefits
++ Better UI performance (like animation).
++ Less battery consumption.
++ To think...
+
+> [!WARNING]
+> If you have an old processor, it may cause battery consumption and bugs.
+
 ## Vulkan Check
 
 #### 1- To see the render changelog you can use (Adreno Gpu)
