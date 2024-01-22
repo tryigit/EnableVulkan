@@ -1,0 +1,7 @@
+id=vulkan_enable
+name=Vulkan Enable
+version=v1.0
+versionCode=10
+author=tryigitx
+description=Enable Hwui Vulkan support. There may be instability in some apps.
+updateJson=https://raw.githubusercontent.com/tryigit/Update-Check/main/687forkona.json
