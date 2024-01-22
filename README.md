@@ -1,3 +1,6 @@
+> [!WARNING]
+> Vip Driver users do not need to use this module.
+
 > [!TIP]
 > Recommended if you have a Snapdragon 888 or better processor.
 
