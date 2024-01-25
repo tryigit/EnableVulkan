@@ -1,3 +1,5 @@
+# Please do not remove the credit Telegram @chinacloudgroup
+
 # info
 SOC=`getprop ro.soc.model`
 MODVER=`grep_prop version $MODPATH/module.prop`
