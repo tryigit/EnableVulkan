@@ -23,7 +23,7 @@ Enables Vulkan support for Android 10 and above. Dynamic installation and inform
 logcat | grep Adreno
 ```
 
-Check which one you use when running an app
+Check which one you use when running an app.
 
 `• AdrenoGLES (OpenGL)`
 
