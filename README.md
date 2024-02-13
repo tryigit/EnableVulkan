@@ -5,7 +5,8 @@
 > Just according to the tests of some telegram users. Recommended if you have a Snapdragon 888 or better processor.
 
 # Enable Vulkan
-Enables Vulkan support for Android 10 and above. Dynamic installation and information based on Android version.
+Enables Vulkan support for Android 10 and above. Dynamic installation and information based on Android version. This module only enforces the Android system ui vulkan. So using an emulator will not enable forced vulkan in games and will not work in games. For example, I recommend using this module for Genshin.
+https://github.com/tryigit/GenshinVulkanControl
 
 ## Benefits
 + Better UI performance (like animation).
