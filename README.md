@@ -34,3 +34,6 @@ Check which one you use when running an app.
 ```
 su -c dumpsys gfxinfo com.android.systemui | grep Pipeline | awk -F '=' '{print $2}'
 ```
+
+## Telegram
+https://t.me/chinacloudgroup
