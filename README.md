@@ -1,5 +1,5 @@
 > [!WARNING]
-> Vip Driver users (A660+) do not need to use this module. Boot based vulkan is enabled and supported.
+> Vip Driver users (A740+) do not need to use this module. Boot based vulkan is enabled and supported.
 
 > [!TIP]
 > Just according to the tests of some telegram users. Recommended if you have a Snapdragon 888 or better processor.
