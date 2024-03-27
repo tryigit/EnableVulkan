@@ -38,4 +38,4 @@ su -c dumpsys gfxinfo com.android.systemui | grep Pipeline | awk -F '=' '{print 
 ```
 
 ## Telegram
-https://t.me/chinacloudgroup
+https://t.me/cleverestech
