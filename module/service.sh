@@ -2,7 +2,7 @@
 
 # Credit @tryigitx Android 14 > Check
 if [[ $(getprop ro.build.version.sdk) -lt 34 ]]; then
-    resetprop debug.hwui.renderer vulkan
+    resetprop debug.hwui.renderer skiavk
 fi
 
 # Enable Vulkan
