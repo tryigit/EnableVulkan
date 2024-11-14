@@ -1,11 +1,11 @@
 > [!WARNING]
-> Vip Driver users (A740+) do not need to use this module. Boot based vulkan is enabled and supported.
+> Vip Driver users (A740+) do not need to use this module. Boot-based Vulkan is enabled and supported.
 
 > [!TIP]
-> Just according to the tests of some telegram users. Recommended if you have a Snapdragon 888 or better processor.
+> Only according to the tests of some Telegram users. Recommended if you have a Snapdragon 888 or better processor.
 
 # Enable Vulkan
-Enables Vulkan support for Android 10 and above. Dynamic installation and information based on Android version. This module only enforces the Android system ui and hw vulkan. So in games using an emulator it will not enable forced vulkan and will not work in games. In games that don't use an emulator, Vulkan will of course work with this module. Unfortunately, it is impossible for a game that uses an emulator. For example, I recommend using this module for Genshin.
+Enables Vulkan support for Android 10 and above. Dynamic installation and information based on Android version. This module only forces the Android system ui and hw vulkan. So in games that use an emulator it will not enable forced vulkan and will not work in games. In games that don't use an emulator, Vulkan will of course work with this module. Unfortunately, it is impossible for a game that uses an emulator. For example, I recommend using this module for Genshin.
 
 **Example:** https://github.com/tryigit/GenshinVulkanControl
 
