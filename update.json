@@ -1,6 +1,6 @@
 {
-    "version": "v1.2.0",
-    "versionCode": 120,
-    "zipUrl": "https://github.com/tryigit/EnableVulkan/releases/download/V1.2.0/SV1.2.0-VulkanEnable.zip",
+    "version": "v1.2.1",
+    "versionCode": 121,
+    "zipUrl": "https://github.com/tryigit/EnableVulkan/releases/download/V1.2.1/SV1.2.1-VulkanEnable.zip",
     "changelog": "https://raw.githubusercontent.com/tryigit/PlayIntegrityFix/Def/CHANGELOG.md"
 }
