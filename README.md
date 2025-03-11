@@ -15,7 +15,7 @@ Enables Vulkan support for Android 10 and above. Dynamic installation and inform
 + To think...
 
 > [!WARNING]
-> If you have an old processor, it may cause battery consumption and bugs.
+> If you have an old processor, it may cause battery consumption and bugs. Also aosp roms are not recommended.
 
 ## Vulkan Check
 
